@@ -1,3 +1,5 @@
 {
-  "main_title":  "Conectados"
+  "main_title":  "Conectados",
+  "welcome_login_text": "Login",
+  "welcome_register_text": "Register"
 }

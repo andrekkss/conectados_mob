@@ -10,6 +10,7 @@ void main() => runApp(ConectadosApp());
 class ConectadosApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) => MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Conectados',
         initialRoute: '/',
         routes: {
