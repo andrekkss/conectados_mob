@@ -1,0 +1,12 @@
+{
+  "name": "conectados",
+  "displayName": "conectados",
+  "expo": {
+    "name": "conectados",
+    "slug": "conectados",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
